@@ -1,0 +1,5 @@
+{
+  "name": "GameForge AI",
+  "description": "A multi-agent AI system that refines game ideas into perfect prompts for code generation.",
+  "requestFramePermissions": []
+}
